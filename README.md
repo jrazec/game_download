@@ -3,7 +3,7 @@
 
 ##INSTALLATION
 1. Make sure to download XAMPP first before proceeding here.
-2. Click the <Code> button then Download the zip file.
+2. Click the **Code** button then Download the zip file.
 3. Once the zip is downloaded, extract the folder into Desktop or other.
 4. Then click the bsu-tneu_lipa_rpg file, and start downloading.
 5. Once the download is done, you can now play the Application!
