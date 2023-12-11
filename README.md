@@ -17,7 +17,8 @@
 -The admin can create the 10 sample datasets, delete all those, check the list of students available and update their records.
 
 ## HERE ARE THE SAMPLE RECORD'S SR CODE AND PASSWORDS
-            **SR_CODE**  **PASSWORD**
+
+            SR_CODE   PASSWORD
             22-32542   d
             22-35492   ddd
             22-37394   @cr001k1
