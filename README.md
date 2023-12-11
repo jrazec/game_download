@@ -9,11 +9,17 @@
 5. Once the download is done, you can now play the Application!
 
 ## Guidelines in playing the application
+
 -Always make sure to open the XAMPP application and start **Apache** and **Mysql** buttons.
+
 -The first time you play the app, make sure to click the SET-UP button first, as it will create the database and predefined entities.
+
 -The user can create his/her account in the account creation
+
 -Email for ADMIN: **admin**
+
 -Password for ADMIN: **12345**
+
 -The admin can create the 10 sample datasets, delete all those, check the list of students available and update their records.
 
 ## HERE ARE THE SAMPLE RECORD'S SR CODE AND PASSWORDS
