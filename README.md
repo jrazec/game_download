@@ -1,5 +1,5 @@
 # game_download
---if the zip file in the other repo didn't work, try this one
+**GO BACK TO THE CODE/OTHER REPO**  https://github.com/jrazec/bsu-tneu_lipa_rpg.git
 
 ## INSTALLATION
 1. Make sure to download XAMPP first before proceeding here.
